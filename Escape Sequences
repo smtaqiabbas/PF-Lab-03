@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main() {
+    printf("Name:\tTaqi Abbas\n");
+    printf("Roll No:\tYOUR_ROLL_NO\n");
+    printf("Section:\tA");
+    return 0;
+}
